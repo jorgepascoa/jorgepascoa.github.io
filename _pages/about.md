@@ -1,28 +1,20 @@
 ---
 permalink: /
-title: "Dr. Alex Morgan"
+title: "Jorge Páscoa"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a researcher and educator studying accountable AI, digital governance, and public technology. My work combines computational social science, interviews, and institutional analysis to understand how data-driven systems are built, governed, and contested.
+I'm a PhD Student in Economics at NOVA School of Business and Economics (Nova SBE).
 
-I am especially interested in collaborations with students, public agencies, and civic organizations working on responsible data practices.
+My research interests are Urban Economics, Public Economics, Inequality and Taxation.
 
 Research interests
 ======
 
-- Algorithmic accountability
-- Data governance
-- Human-centered AI
-- Public-sector technology policy
-
-Recent updates
-======
-
-- Replace this section with news, grants, accepted papers, or upcoming talks.
-- Add publications in `_publications/`.
-- Add teaching records in `_teaching/`.
-- Add talks in `_talks/`.
+- Urban Economics
+- Public Economics
+- Inequality
+- Taxation
