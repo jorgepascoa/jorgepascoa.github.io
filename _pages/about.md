@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Jorge Páscoa"
 author_profile: true

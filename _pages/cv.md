@@ -26,9 +26,7 @@ Research interests
 
 Research
 ======
-{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
+* Touristification and incumbent residents: evidence from personal income tax records, work in progress with Susana Peralta and João Pereira dos Santos.
 
 Grants
 ======
@@ -54,15 +52,10 @@ Presentations
 ======
 See the [Research Presentations](/presentations/) page for seminars, workshops, and conferences.
 
-Scientific consulting
-======
-* Fundação Francisco Manuel dos Santos (FFMS).
-* SIC Notícias.
-
 Other professional experience
 ======
 * Expert in Economic Content, AICEP - Portuguese Agency for Investment and Trade, April 2022-September 2022.
-* Applications Consultant, Capgemini, October 2019-June 2021.
+* Technology Consultant, Capgemini, October 2019-June 2021.
 
 Languages and software
 ======
