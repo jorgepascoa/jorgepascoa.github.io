@@ -9,9 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV as PDF](/files/Jorge_Pascoa_CV.pdf)
+
 Education
 ======
-* PhD Student in Economics, NOVA School of Business and Economics.
+* PhD Student in Economics, NOVA School of Business and Economics, 2023-present.
+* MSc in Economics, NOVA School of Business and Economics, 2021-2023.
+* BSc in Economics, University College London, 2015-2018.
 
 Research interests
 ======
@@ -25,6 +29,16 @@ Research
 {% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
+
+Grants
+======
+* Foundation for Science and Technology: PhD Studentship for Doctoral Research, 2023-2027.
+
+Research experience
+======
+* Research Assistant for Prof. Susana Peralta, "Inequality, individual behaviour and public policy: evidence using tax administrative data," January 2023-August 2023.
+* Research Assistant, NOVAFRICA Knowledge Center, "Raising Educational Aspirations - An Experimental Evaluation," January 2022-March 2023.
+* Research Assistant for Prof. Youtha Cuypers, June 2022-September 2022.
   
 Teaching
 ======
@@ -39,3 +53,23 @@ Teaching
 Presentations
 ======
 See the [Research Presentations](/presentations/) page for seminars, workshops, and conferences.
+
+Scientific consulting
+======
+* Fundação Francisco Manuel dos Santos (FFMS).
+* SIC Notícias.
+
+Other professional experience
+======
+* Expert in Economic Content, AICEP - Portuguese Agency for Investment and Trade, April 2022-September 2022.
+* Applications Consultant, Capgemini, October 2019-June 2021.
+
+Languages and software
+======
+* Languages: Portuguese, English, Spanish, French, Arabic.
+* Software: Stata, R, LaTeX, MATLAB, Python, SQL, QGIS, Microsoft Office.
+
+Certificates
+======
+* Microsoft Office Expert (MOS) Certification.
+* Programming Essentials in Python.
