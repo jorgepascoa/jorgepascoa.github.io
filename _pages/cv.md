@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD Student in Economics, NOVA School of Business and Economics.
 
-Work experience
+Research interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Urban Economics
+* Public Economics
+* Inequality
+* Taxation
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* MSc. Thesis Co-Supervision: Progressivity and the Tax Treatment of Children: A Microsimulation with Administrative Personal Income Tax Data, 2026.
+* Policy Analysis Exercise (MSc.), Teaching Assistant for Prof. José Tavares, NOVA SBE, 2026.
+* Policy Appraisal (MSc.), Teaching Assistant for Prof. Sonia Félix, NOVA SBE, 2025.
+* Development Economics (MSc.), Teaching Assistant for Prof. Brais Álvarez-Pereira, NOVA SBE, 2025.
+* Empirical Methods for Finance (MSc.), Teaching Assistant for Prof. Virginia Gianinazzi, NOVA SBE, 2024.
+* Development Economics II (MSc.), Teaching Assistant for Prof. Pedro Vicente, NOVA SBE, 2024.
+* Development Economics I (MSc.), Teaching Assistant for Prof. Pedro Vicente, NOVA SBE, 2023.
+
+Presentations
 ======
-* Currently signed in to 43 different slack teams
+See the [Research Presentations](/presentations/) page for seminars, workshops, and conferences.

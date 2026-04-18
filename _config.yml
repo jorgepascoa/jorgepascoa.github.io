@@ -28,20 +28,22 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Economics at NOVA School of Business and Economics."
   location         : "Lisbon, Portugal"
-  employer         : "NOVA School of Business and Economics"
-  uri              : # URL
-  email            : # email
+  employer         : "NOVA SBE"
+  uri              : "https://www.novasbe.unl.pt/en/"
+  email            : "jorge.ferreira@novasbe.pt"
+  email2           : "jorgepaulojp@gmail.com"
+  nova_profile     : "https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1326/jorge-ferreira?destination=/career/starting-your-career-far-home&page=3"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.pt/citations?user=nap5OjsAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0001-2525-6251"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +59,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +68,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "jorge-pascoa"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,7 +76,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "JPascoaF"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
